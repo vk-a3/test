@@ -1,2 +1,4 @@
-# test
-trying to learn what is github and how to use it
+a = 2
+b = 3
+a+b = c
+print(c)
